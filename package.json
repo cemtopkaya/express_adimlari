@@ -1,0 +1,13 @@
+{
+  "name": "test_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "SET NODE_ENV=dev && node ./www/www.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cem Topkaya <'cem.topkaya@hotmail.com'> (http://Cem.Topkaya.com)",
+  "license": "MIT"
+}
